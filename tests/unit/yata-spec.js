@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const yata = require('../../dist/yata');
+const yata = require('../../src/yata');
 
 describe('yata library', function() {
 

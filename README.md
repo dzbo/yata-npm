@@ -77,7 +77,7 @@ node_modules/.bin/yata-fetch --config config.json --locale en_US
 
 ## Contributing
 
-This project uses `yarn` as a package manager and `gulp` as task runner.
+This project uses `yarn` as a package manager and `webpack` as task runner.
 
 ## Package Maintenance
 
